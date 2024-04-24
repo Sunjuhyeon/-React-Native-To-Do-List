@@ -1,7 +1,9 @@
 {
   "expo": {
     "name": "NomadTodo",
+    "description": "니꼬쌤과 함께한 To-do List",
     "slug": "NomadTodo",
+    "owner": "juhyeonSun",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
